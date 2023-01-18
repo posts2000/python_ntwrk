@@ -1,7 +1,7 @@
 ## Вопросы
 
 Для части тем книги созданы вопросы:
-
+test test test
 * [Типы данных. Часть 1](https://goo.gl/forms/xKHX5xNM8Pv5sQDf2)
 * [Типы данных. Часть 2](https://goo.gl/forms/igxR3ub3tQg3ycX53)
 * [Контроль хода программы. Часть 1](https://goo.gl/forms/2TmGcrhG11h2SdLn1)
