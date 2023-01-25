@@ -12,3 +12,4 @@
 > [Как создать репозиторий на основе шаблона](https://pyneng.readthedocs.io/ru/latest/book/02_git_github/git_github_changes.html).
 
 
+Done.
